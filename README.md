@@ -1,0 +1,3 @@
+# Machine-Learning
+This repository will put light on python based machine learning algorithms
+E.g. converting voice/audio to text, process it, based on voice command, perform action etc...
